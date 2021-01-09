@@ -1,0 +1,16 @@
+.links {
+    display: flex;
+    justify-content: center;
+}
+
+.links a {
+    color: #4c45b3;
+    line-height: 36px;
+    font-size: 32px;
+}
+
+.links a:hover {
+    color: #6c63ff;
+    font-size: 33px;
+    transition: .3s;
+}

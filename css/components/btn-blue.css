@@ -1,0 +1,16 @@
+.btn-blue {
+    background: linear-gradient(#6c63ff, #4c45b3);
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px 15px;
+    line-height: 24px;
+    border-radius: 2px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn-blue:hover {
+    background: linear-gradient(#4c45b3, #4c45b3);
+    transition: all 2s ease;
+}
